@@ -18,7 +18,7 @@ Captured TCP 3-way handshake using Wireshark.
 
 ### Lab 03: IP Address
 Configured Static IP on Windows.
-[View Lab](./Lab-04-IP-Address/README.md)
+[View Lab](Ip address Lab/Lab-04-IP-Address.md)
 
 ## Skills
 
