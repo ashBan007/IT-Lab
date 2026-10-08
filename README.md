@@ -1,2 +1,32 @@
-# IT-Lab
+# IT Labs Portfolio
+
+Hands-on IT labs for System Administration and IT Support roles.
+
+## About Me
+
+CSE Graduate | IT Support & Systems Engineer | Networking, Windows Server, Microsoft 365, Azure
+
+## Labs Completed
+
+### Lab 01: OSI Model
+Explored OSI 7 layers using Windows commands.
+[View Lab](./Lab-01-OSI-Model/README.md)
+
+### Lab 02: TCP/IP Model
+Captured TCP 3-way handshake using Wireshark.
+[View Lab](./Lab-03-TCP-IP-Model/README.md)
+
+### Lab 03: IP Address
+Configured Static IP on Windows.
+[View Lab](./Lab-04-IP-Address/README.md)
+
+## Skills
+
+- Networking: TCP/IP, DNS, DHCP, ARP
+- Tools: Wireshark, Command Line
+- Troubleshooting: Layer-by-layer approach
+
+## Contact
+LinkedIn:www.linkedin.com/in/md-ashraful-islam-35bb95112
+Email: ashshaan3@gmail.com# IT-Labs My IT-Labs# IT-Lab
 Hands-on IT labs for System Administration and IT Support roles.  Covers Networking, OSI Model, TCP/IP, DNS, DHCP, Windows Server,  Active Directory, Microsoft 365, and Azure.
