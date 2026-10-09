@@ -1,0 +1,53 @@
+# Lab 05: DNS (Domain Name System)
+
+## Objective
+Learn DNS basics, DNS records, and use nslookup for DNS troubleshooting.
+
+## Commands Used
+
+| Command | Purpose |
+|---------|---------|
+| `nslookup google.com` | Basic DNS lookup |
+| `nslookup google.com 8.8.8.8` | Specific DNS server |
+| `ipconfig /displaydns` | View DNS cache |
+| `ipconfig /flushdns` | Clear DNS cache |
+| `nslookup -type=mx google.com` | MX record |
+| `nslookup -type=ns google.com` | NS record |
+
+## DNS Records
+
+| Record | Purpose |
+|--------|---------|
+| A | Name → IPv4 |
+| AAAA | Name → IPv6 |
+| CNAME | Alias |
+| MX | Mail server |
+| NS | Name server |
+| PTR | Reverse DNS |
+
+## Steps
+
+1. Ran `nslookup google.com`
+2. Ran `nslookup facebook.com`
+3. Ran `nslookup google.com 8.8.8.8`
+4. Ran `ipconfig /displaydns`
+5. Ran `ipconfig /flushdns`
+6. Ran `nslookup -type=mx google.com`
+7. Ran `nslookup -type=ns google.com`
+
+## Results
+
+- DNS resolution working
+- Google IP resolved: 142.250.185.78
+- MX and NS records retrieved
+- DNS cache viewed and cleared
+
+## What I Learned
+- DNS = Name to IP resolution
+- DNS record types (A, AAAA, CNAME, MX, NS, PTR)
+- DNS query process
+- nslookup commands
+- DNS cache management
+
+## Screenshots
+Screenshots are in the `screenshots/` folder.
