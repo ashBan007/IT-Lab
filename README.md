@@ -1,6 +1,6 @@
 # IT Labs Portfolio
 
-Hands-on IT labs for System Administration and IT Support roles.
+Hands-on IT labs for System Administration and IT Support roles.  Covers Networking, OSI Model, TCP/IP, DNS, DHCP, Windows Server,  Active Directory, Microsoft 365, and Azure.
 
 ## About Me
 
@@ -27,4 +27,4 @@ Configured Static IP on Windows.
 ## Contact
 LinkedIn:www.linkedin.com/in/md-ashraful-islam-35bb95112
 Email: ashshaan3@gmail.com# IT-Labs My IT-Labs# IT-Lab
-Hands-on IT labs for System Administration and IT Support roles.  Covers Networking, OSI Model, TCP/IP, DNS, DHCP, Windows Server,  Active Directory, Microsoft 365, and Azure.
+
