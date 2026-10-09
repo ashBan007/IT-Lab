@@ -10,14 +10,12 @@ CSE Graduate | IT Support & Systems Engineer | Networking, Windows Server, Micro
 
 ### Lab 01: OSI Model
 Explored OSI 7 layers using Windows commands.
-
-
-### Lab 02: TCP/IP Model
+### Lab 02: OSI Model Trobleshooting
+### Lab 03: TCP/IP Model
 Captured TCP 3-way handshake using Wireshark.
-
-
-### Lab 03: IP Address
+### Lab 04: IP Address
 Configured Static IP on Windows.
+### Lab 05: DNS (Domain Name System)
 
 
 ## Skills
